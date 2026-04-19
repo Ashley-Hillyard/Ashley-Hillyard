@@ -12,7 +12,7 @@
 
 I'm a self-taught developer who's been building things on and off for about **4 years**. I'm not currently in school for it — just someone who likes to create and learn by doing. I'll be heading to **college for game development** soon, and I've already started getting into **Godot** to get a head start.
 
-Right now I mostly work on web development, Discord bots, and FiveM scripting.
+My current project is a business called PayVoro, it is a POS system fully custom developed for local shops.
 
 ---
 
